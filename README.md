@@ -1,8 +1,8 @@
-Secure Mobile Tracking Web Application 📍🛡️
+Secure Mobile Tracking Web Application 📍
 
 A professional, full-stack Python web application designed for real-time geolocation tracking with a strong focus on cybersecurity best practices. This project was developed as a university-level demonstration of integrating browser APIs with a secure Flask backend.
 
-🚀 Features
+ Features
 
 Core Functionality
 
