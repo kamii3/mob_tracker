@@ -59,8 +59,8 @@ mob_tracker/
 
 Clone the repository
 
-git clone [https://github.com/yourusername/secure-tracker.git](https://github.com/yourusername/secure-tracker.git)
-cd secure-tracker
+git clone https://github.com/kamii3/mob_tracker
+cd mob_tracker
 
 
 Create a Virtual Environment
